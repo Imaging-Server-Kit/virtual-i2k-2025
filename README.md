@@ -1,4 +1,5 @@
-# Enrich your Python Workflow with the Imaging Server Kit
+![EPFL Center for Imaging logo](https://imaging.epfl.ch/resources/logo-for-gitlab.svg)
+# 🪐 Enrich your Python Workflow with the Imaging Server Kit
 
 Material for the [2025 Virtual Halfway to I2K](https://www.i2kconference.org/) *Imaging Server Kit* workshop.
 
