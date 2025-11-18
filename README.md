@@ -17,7 +17,7 @@ Material for the [2025 Virtual Halfway to I2K](https://www.i2kconference.org/) *
 [**✏️ Issues**](https://github.com/Imaging-Server-Kit/imaging-server-kit/issues) - If you encounter any issues while using the server kit, please file them in the repository. Thank you!
 
 ## Setup
-create server kit algorithms
+
 If you haven't done so already, you can install the Imaging Server Kit package via `pip`:
 
 ```
@@ -30,3 +30,4 @@ To use Napari-related functionalities, you will also need to install the **Napar
 pip install "napari[all]" napari-serverkit
 ```
 
+To use algorithms in QuPath, install the extension from [this page](https://github.com/Imaging-Server-Kit/qupath-extension-serverkit/releases) (choose the latest release).
